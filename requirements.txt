@@ -1,0 +1,15 @@
+pandas
+scikit-learn
+openpyxl
+transformers
+huggingface-hub
+torch
+openai
+python-dotenv
+langchain
+langchain_openai
+langchain_core
+langchain_huggingface
+
+
+# test
